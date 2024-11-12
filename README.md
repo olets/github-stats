@@ -1,5 +1,29 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+An action by jstrieb https://github.com/jstrieb/github-stats
+
+Generates SVGs with stats about my GitHub user.
+
+Runs monthly, and only looks at public repos.
+
+Use this
+
+```markdown
+![](https://raw.githubusercontent.com/olets/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/olets/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/olets/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/olets/github-stats/master/generated/languages.svg#gh-light-mode-only)
+```
+
+To show this
+
+![](./generated/overview.svg#gh-dark-mode-only)
+![](./generated/overview.svg#gh-light-mode-only)
+![](./generated/languages.svg#gh-dark-mode-only)
+![](./generated/languages.svg#gh-light-mode-only)
+
+<details><summary>Upstream readme</summary>
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
@@ -153,3 +177,5 @@ releasing work publicly on the Web.
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+
+</details>
