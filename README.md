@@ -9,10 +9,10 @@ Runs monthly, and only looks at public repos.
 Use this
 
 ```markdown
-![](https://raw.githubusercontent.com/olets/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/olets/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/olets/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/olets/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![olets GitHub stats animated SVG, dark mode](https://raw.githubusercontent.com/olets/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![olets GitHub stats animated SVG, light mode](https://raw.githubusercontent.com/olets/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![olets GitHub languages used animated SVG, dark mode](https://raw.githubusercontent.com/olets/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![olets GitHub languages used animated SVG, light mode](https://raw.githubusercontent.com/olets/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ```
 
 To show this
